@@ -1,2 +1,2 @@
 # Python-Full-University-Course
-Python
+Just a Course I'm learning. 
